@@ -6,7 +6,7 @@ A React-based frontend application that interacts with a distributed backend sys
 
 ## 🌐 Live Demo
 
-*(Add your Vercel link here after deployment)*
+https://full-stack-cloud-scale.vercel.app/
 
 ---
 
